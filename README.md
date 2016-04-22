@@ -1,5 +1,5 @@
-# zDevDocsOffline
-A DevDocs client (for offline use). Written in [Electron](https://github.com/atom/electron).
+# z[StackEdit](https://github.com/benweet/stackedit)
+A markdown editor. Written in [Electron](https://github.com/atom/electron).
 
 
 
