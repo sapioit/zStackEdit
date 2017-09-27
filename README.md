@@ -1,4 +1,4 @@
-# z[StackEdit](https://github.com/benweet/stackedit)
+# z[StackEdit](https://github.com/benweet/stackedit) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 A markdown editor. Written in [Electron](https://github.com/atom/electron).
 
 
